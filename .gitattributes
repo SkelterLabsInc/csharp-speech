@@ -1,0 +1,1 @@
+stt/Resources/hello.wav filter=lfs diff=lfs merge=lfs -text
