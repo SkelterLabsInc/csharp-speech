@@ -1,6 +1,6 @@
-# AIQ.TALK Speech C# Example
+# AIQ.STT C# Example
 
-The AIQ.TALK Speech (STT/TTS) API examples for C#.
+The AIQ.STT API examples for C#.
 
 ## Prerequisite
 

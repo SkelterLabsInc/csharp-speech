@@ -22,7 +22,7 @@ namespace SkelterLabsStt
             [Option('p', "port", Default = 443, HelpText = "gRPC host port number.")]
             public int Port { get; set; }
 
-            [Option('k', "api-key", HelpText = "Authentication key for AIQ Speech")]
+            [Option('k', "api-key", HelpText = "Authentication key for AIQ.")]
             public string ApiKey { get; set; }
         }
 
